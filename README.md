@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Erdem 👋
 
-<!--
-**erdemozcevik/erdemozcevik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Frontend Developer (React) | Learning Java & Spring Boot
 
-Here are some ideas to get you started:
+I build real-world projects and improve my skills by working on practical applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+* 💱 Currency Converter App (React + API)
+* 🧮 Calculator App (useReducer)
+
+## 🛠️ Tech Stack
+
+* React, JavaScript, HTML, CSS
+* Java, Spring Boot (learning)
+* SQL
+* Git & GitHub
+
+## 📫 Contact
+
+* Email: [erdemozcevik74@gmail.com](mailto:erdemozcevik74@gmail.com)
